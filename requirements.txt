@@ -1,0 +1,3 @@
+# Libraries used in coding
+pandas
+openpyxl
